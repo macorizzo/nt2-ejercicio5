@@ -62,7 +62,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: #232323;
+  background-color: #353535;
 }
 
 #app {

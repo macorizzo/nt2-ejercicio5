@@ -37,6 +37,7 @@ export default {
 <style scoped lang="css">
 #container {
   margin: 20px auto;
-  max-width: 600px;
+  max-width: 601px;
 }
+
 </style>

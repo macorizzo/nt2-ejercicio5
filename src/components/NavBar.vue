@@ -44,7 +44,7 @@ export default {
 </script>
 
 <style scoped lang="css">
-.square-component {}
+
 
 .displayNone {
   background-color: #232323;

@@ -44,7 +44,7 @@ export default {
   text-transform: uppercase;
   text-align: center;
   margin: 0;
-  color: white;
+  color: palegoldenrod;
 }
 
 h1 {
@@ -57,4 +57,6 @@ h1 {
 #colorDisplay {
   font-size: 200%;
 }
+
+
 </style>
